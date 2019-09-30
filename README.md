@@ -7,4 +7,5 @@ Although these challenges provide some guidelines on how they should be solved, 
 ### The Challenges
 
 * [React](/react.md)
+* [Ruby](/ruby.md)
 
