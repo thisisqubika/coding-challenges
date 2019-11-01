@@ -6,7 +6,9 @@ Although these challenges provide some guidelines on how they should be solved, 
 
 ### The Challenges
 
-* [Node.js](/node-js.md)
+* [Angular](/angular.md)
 * [React](/react.md)
+
+* [Node.js](/node-js.md)
 * [Ruby](/ruby.md)
 
