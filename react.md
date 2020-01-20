@@ -34,4 +34,4 @@ Use `redux` as state manager for the demo app and `react-router` for page routin
 
 Both the UI library and the demo app must be published on GitHub. 
 
-After completing the challenge, send an email to coding-challange@moove-it.com including the GitHub’s repository url. Tag the version you want to deliver as `1.0.0`. 
+After completing the challenge, send an email to coding-challenge@moove-it.com including the GitHub’s repository url. Tag the version you want to deliver as `1.0.0`. 
