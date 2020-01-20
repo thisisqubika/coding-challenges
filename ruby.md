@@ -44,7 +44,7 @@ The project should have a `README` describing how to run the server, run a demo 
 
 The codebase must be published on GitHub.
 
-After completing the challenge, send an email to coding-challange@moove-it.com including the GitHub’s repository url. Tag the version you want to deliver as `1.0.0`.
+After completing the challenge, send an email to coding-challenge@moove-it.com including the GitHub’s repository url. Tag the version you want to deliver as `1.0.0`.
 
 ### References
 
