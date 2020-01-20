@@ -11,4 +11,5 @@ Although these challenges provide some guidelines on how they should be solved, 
 
 * [Node.js](/node-js.md)
 * [Ruby](/ruby.md)
+* [Java](https://github.com/moove-it/java-coding-challenge)
 
