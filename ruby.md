@@ -4,7 +4,7 @@ The intent of this challenge is to get a sense of how do you solve certain archi
 
 ## The Challenge
 
-Implement a Memcached server that complies with the specified protocol.
+Implement a Memcached server (TCP/IP socket) that complies with the specified protocol.
 
 About Memcached:
 
@@ -35,14 +35,17 @@ Each command should have a set of unit tests covering each case.
 
 The project should have a `README` describing how to run the server, run a demo client and issue sample commands, and how to run the tests.
 
-### Extras
+### Tips and general issues to solve
 
 * Purge expired keys
+* Manage multiple client 
 * Desing load tests and include the test plan (for example, JMeter files) as part of the codebase
 
 ## Deliverables
 
 The codebase must be published on GitHub.
+
+You couldn't use gems. Only rspec can be used.
 
 After completing the challenge, send an email to coding-challenge@moove-it.com including the GitHub’s repository url. Tag the version you want to deliver as `1.0.0`.
 
