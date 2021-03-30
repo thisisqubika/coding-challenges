@@ -1,6 +1,7 @@
 ## Intent
 
-The intent of this challenge is to get a sense of how do you solve certain architectural and design problems, and how well do you document and test your work.
+This challenge intends to get a sense of how do you solve certain architectural and design
+ problems, and how well do you document and test your work.
 
 ## The Challenge
 
@@ -8,10 +9,11 @@ Implement a Memcached server that complies with the specified protocol.
 
 About Memcached:
 
-> Free & open source, high-performance, distributed memory object caching system, generic in nature, but intended for use in speeding up dynamic web applications by alleviating database load.
+> Free & open-source, high-performance, distributed memory object caching system, generic in nature,
+> but intended for use in speeding up dynamic web applications by alleviating database load.
 
-The server must listen for new connections on a given TCP port. The implementation must accept connections and commands from any Memcached client and respond appropriately.
-
+The server must listen for new connections on a given TCP port. The implementation must accept
+connections and commands from any Memcached client and respond appropriately.
 
 ### Requirements
 
@@ -29,22 +31,26 @@ Storage commands:
 * prepend
 * cas
 
-Find the details about each command in the protocol's documentation (see the [References](#references) section)
+Find the details about each command in the protocol's documentation (see the
+[References](#references) section)
 
 Each command should have a set of unit tests covering each case.
 
-The project should have a `README` describing how to run the server, run a demo client and issue sample commands, and how to run the tests.
+The project should have a `README.md` describing how to run the server, run a demo client and issue
+sample commands, and how to run the tests.
 
 ### Extras
 
 * Purge expired keys
-* Desing load tests and include the test plan (for example, JMeter files) as part of the codebase
+* Manage multiple clients
+* Design and include architectural diagrams
 
 ## Deliverables
 
 The codebase must be published on GitHub.
 
-After completing the challenge, send an email to coding-challenge@moove-it.com including the GitHub’s repository url. Tag the version you want to deliver as `1.0.0`.
+After completing the challenge, send an email to coding-challenge@moove-it.com including the
+GitHub’s repository url. Tag the version you want to deliver as `1.0.0`.
 
 ### References
 
